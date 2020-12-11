@@ -10,7 +10,7 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: *YourNameHere*
-* ID: *YourIdHere*
+* Name: Dinh Gia Luong 
+* ID: Bi9-159
 * Group ID: *Your Group ID here*
 
